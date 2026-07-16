@@ -1,4 +1,4 @@
-# Memresistor Crossbar Simulator
+# TbarSim
 
 A small Python simulator for a 3D memristor crossbar array using nodal analysis. The main module is [`crossbar.py`](crossbar.py), which defines the `Tbar` class for building the graph, assigning conductances and bias voltages, solving the circuit, and visualizing the result in Plotly.
 
